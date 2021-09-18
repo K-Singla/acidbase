@@ -1,0 +1,3 @@
+# acidbase
+Notes of class 10th Science chapter Acid and Base
+Website created by linking html pages...
